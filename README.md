@@ -46,7 +46,7 @@ L’objectif principal du projet est pédagogique : apprendre et pratiquer Flutt
 ![Expense List](assets/screenshots/expense_list.png)
 
 ### Suppression des dépenses
-![Expense List](assets/screenshots/delete.png)
+![Expense List](assets/screenshots/expense_delete.png)
 
 ---
 
