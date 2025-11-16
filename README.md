@@ -36,8 +36,23 @@ L’objectif principal du projet est pédagogique : apprendre et pratiquer Flutt
 - Gestion d’état simple avec `setState`
 
 ---
+### Accueil
+![Accueil](assets/screenshots/home.png)
+
+### Ajouter une dépense
+![New Expense](assets/screenshots/new_expense.png)
+
+### Liste des dépenses
+![Expense List](assets/screenshots/expense_list.png)
+
+### Suppression des dépenses
+![Expense List](assets/screenshots/delete.png)
+
+---
 
 ## 🧱 Architecture simple du projet
+
+
 
 ```text
 lib/
@@ -50,4 +65,5 @@ lib/
  │    └─ new_expense.dart   # Formulaire pour ajouter une dépense
  └─ screens/
       └─ home_screen.dart   # Écran principal de l'application
+
 
